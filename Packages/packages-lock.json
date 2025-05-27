@@ -266,6 +266,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vanbassum.wakatime": {
+      "version": "file:D:/Users/victo/Downloads/downloads_N.O/Wakatime.Unity-main",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
